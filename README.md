@@ -28,7 +28,7 @@ Before you begin, ensure you have the following installed on your system:
 1. Clone the repository:
 
     ```sh
-    git clone git clone https://github.com/AkshayMD18/AgroConnect/tree/master
+    git clone git clone https://github.com/anubhav0210/AgroConnect-master/tree/main
     cd AgroConnect
     cd AgroConnect
     ```
